@@ -1,0 +1,8 @@
+button.removebtn {
+    margin-left: 20px;
+    background-color: red;
+}
+
+.todo-container {
+    margin-top: 20px;
+}

@@ -1,0 +1,25 @@
+.todo-form {
+  margin-top: 50px;
+}
+
+#name {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+#btn {
+  background-color: blue; 
+  text-align: center;
+  display: inline-block;
+  font-size: 14px;
+  color: white;
+  padding: 15px 32px;
+  border: none;
+}
+
+#btn:hover {
+    background-color: #4CAF50; 
+    color: white;
+}

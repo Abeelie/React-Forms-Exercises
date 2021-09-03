@@ -1,0 +1,10 @@
+.Box-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.Color-box {
+    margin-right: 20px;
+}
